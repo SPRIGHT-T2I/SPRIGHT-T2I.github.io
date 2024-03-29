@@ -1,0 +1,14 @@
+cat.png - In the foreground, a grand piano, about three times the size of a cat, is positioned at the center. Behind it, slightly to the right, a window reveals a bright, full moon in the dark night sky, casting a gentle glow on the piano.
+ballooon.png - In a lush, green meadow, a large, colorful hot air balloon is preparing to ascend, positioned on the far right. On the left, a group of small rabbits, each no bigger than a balloon basket, curiously watches from a safe distance.
+cat_lamp.png - A cat sitting on a chair with a lamp to the right and a window above, casting shadows on the floor below.
+sun.png - A yellow sun shining in the sky above a green meadow, with a river winding its way below, and a mountain range towering in the distance.
+rainbow.png - A person standing on a hill, with a rainbow stretching across the sky behind them and a valley spreading out below.
+moon.png - A telescope pointed at the stars, with planets orbiting in the distance and a moon shining brightly overhead.
+train.png - A train traveling along tracks, with mountains towering to the right and fields of flowers blooming to the left
+cozy.png - A cozy cabin nestled in the woods, with a stream flowing in front and a fire burning in the fireplace inside.
+garden.png - A garden with rows of vegetables growing, with a scarecrow standing guard to the left and a greenhouse next to the flowers, on the right.
+gnarl.png - A large, full moon dominates the top right corner of the image, casting a soft glow on a small, abandoned house below, situated in the center of a barren field. In the foreground, a twisted, gnarled tree leans towards the house.
+tutle.png - A vibrant coral reef occupies the bottom half of the image, with a large sea turtle swimming above it towards the right. In the distant background, a small school of fish forms a swirling pattern, with the sunlight filtering through the water from the top left corner, illuminating the scene.
+sofa.png - Inside a cozy living room, a fireplace crackles with warmth. To the left of the fireplace, a bookshelf stands filled with well-loved novels, while to the right, a comfortable sofa beckons relaxation.
+dragons.png - A giant, open book lies in the center of a wooden table, with tiny, detailed illustrations of mythical creatures scattered across its pages. In the background, a small, glowing lamp casts light over the scene, with small dragons flying above
+cloud.png - Above, a massive, dark storm cloud looms, filling the top half of the image with its ominous presence. Below, a small, winding river flows, while to the right a small house stands alone

@@ -135,7 +135,7 @@ body {
 }
 
 section.banner {
-    background-image: url(../images/overlay.png), url(../images/banner.png);
+    background-image: url(../images/overlay.png);
     color: #aaa;
     background-position: center top;
     background-size: cover;
@@ -159,7 +159,7 @@ section.banner {
 }
 
 .pixart-alpha-icon::before {
-  background-image: url(../images/logo.svg);
+  background-image: url(../images/logo.png);
   background-size: 1em 1em;
   display: inline-block;
   width: 1em; 
